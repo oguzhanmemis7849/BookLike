@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": null,
+      "fullname": null,
+      "password": "U2FsdGVkX1+4KV9ds1Xu+DLqyA8LBhSoYzi5AMlFcVs=",
+      "id": 1
+    },
+    {
+      "username": "Oğuzhan Memiş",
+      "fullname": "polimemis",
+      "password": "U2FsdGVkX19w4HdIa6VtqZ0UhAiEO8yIiCdxzEpjvwo=",
+      "id": 2
+    },
+    {
+      "fullname": "polimemis",
+      "username": "Oğuzhan Memiş",
+      "password": "U2FsdGVkX1+Ew5FjYy39z+QkL8K6OTSijIIz3d/+0rU=",
+      "id": 3
+    },
+    {
+      "fullname": "Sahra Çelik",
+      "username": "sahracelik_",
+      "password": "U2FsdGVkX1+gdMznsz1b+d1moTPianBqQPePXu9K96E=",
+      "id": 4
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
+}
